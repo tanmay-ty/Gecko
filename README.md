@@ -5,11 +5,11 @@ Search and exploration missions have been of great research interest for a long 
 
 The prototype of this robot has been developed.
 
-1x Arduino uno
-1x lipo cell 
-2x 1.8kg/cm servo motor
-1x bluetooth controller (HC06)
-and jumper wires for wiring
+1. 1x Arduino uno
+2. 1x lipo cell 
+3. 2x 1.8kg/cm servo motor
+4. 1x bluetooth controller (HC06)
+5. Jumper wires for wiring
 
 we used a bluetooth rc car smartphone app for control initially.
 
